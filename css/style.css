@@ -72,15 +72,15 @@ body{
 	padding: 0px 20px;
 }
 .content_title{
-	font-size: 200px;
+	font-size: 50px;
 }
 .content_subtitle{
-	font-size: 120px;
+	font-size: 30px;
 }
 .content_article{
 	text-align: center;
 	padding: 20px;
-	font-size: 50px;
+	font-size: 18px;
 	line-height: 50px;
 
 }
